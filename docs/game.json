@@ -11,5 +11,6 @@
     "space": {
       "win": "Угадал!"
     }
-  }
+  },
+  "hotDistance": 2
 }
